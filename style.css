@@ -1,0 +1,50 @@
+.heading{
+width:100%;
+margin-top: 0px;
+font-family:Cochin;
+box-shadow: 15px 15px 20px black;
+font-size: 25px;
+}
+
+body{
+background-size: cover;
+}
+
+.Objectnames{
+color:black;
+font-size: 20px;
+}
+
+#camera,#result{
+border:5px solid green;
+box-shadow: 10px 10px 15px darkgreen;
+width:350px;
+height: 350px;
+}
+
+label{
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+    text-shadow: 5px 5px 5px rgb(5, 5, 114);
+}
+
+#b1,#b2{
+    box-shadow: 10px 10px 15px green;
+
+}
+
+p{
+  color:yellow;  
+}
+
+label{
+color:blue;
+}
+
+#name,#percent{
+font-weight: bold;
+color:white;
+font-size: 30px;
+
+}
